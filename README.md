@@ -10,6 +10,10 @@ While the main analytical outputs for JNA 2025 were produced using Power BI dash
 
 ---
 
+## My role
+
+I developed this script as the person responsible for preparing the JNA 2025 data in Brazil, within the Information Management working group of R4V Brazil. Its outputs fed the Power BI dashboards used for the analysis.
+
 ## Context
 
 The Joint Needs Assessment is a coordinated, inter-agency household survey designed to identify priority needs, vulnerabilities, and access to services among affected populations.
